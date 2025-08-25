@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://juanamariagoar.github-eng/El_arte_de_comunicar/sitemap.xml
