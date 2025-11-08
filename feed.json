@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://juanamariagoar-eng.github.io/El_arte_de_comunicar/video-experimental-y-vos-que-ves.html",
+            "url": "https://juanamariagoar-eng.github.io/El_arte_de_comunicar/video-experimental-y-vos-que-ves.html",
+            "title": "Video experimental: ¿Y vos que ves?",
+            "summary": "En el video ¿Y vos que ves? busco mostrar retazos de mi vida, de mi archivo personal a traves de, literalmente, mis ojos. En este corto juego con los colores, las transparencias, las siluetas y los sonidos para transmitir una variación de emociones y sensaciones&hellip;",
+            "content_html": "<p>En el video <span style=\"color: #e03e2d;\"><a href=\"https://drive.google.com/file/d/1VOm8-btHajdK5RZqYKRxiw8IuzHjkACG/view?usp=drive_link\" style=\"color: #e03e2d;\">¿Y vos que ves?</a></span> busco mostrar retazos de mi vida, de mi archivo personal a traves de, literalmente, mis ojos. En este corto juego con los colores, las transparencias, las siluetas y los sonidos para transmitir una variación de emociones y sensaciones a medida que los videos van cambiando y mutando.</p>",
+            "image": "https://juanamariagoar-eng.github.io/El_arte_de_comunicar/media/posts/7/_DSC0003-2.png",
+            "author": {
+                "name": "Juana María Gómez Arias"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2025-11-07T19:07:01-05:00",
+            "date_modified": "2025-11-07T19:36:12-05:00"
+        },
+        {
             "id": "https://juanamariagoar-eng.github.io/El_arte_de_comunicar/podcast-entre-tintes-y-tradicion.html",
             "url": "https://juanamariagoar-eng.github.io/El_arte_de_comunicar/podcast-entre-tintes-y-tradicion.html",
             "title": "Podcast: Entre tintes y tradición.",
